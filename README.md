@@ -1,3 +1,3 @@
 # Lab
 
-This Repo Contain Thuresday Lab Work.
+This  Repositories Contain Thuresday Lab Work.
