@@ -1,3 +1,3 @@
 # Lab
 
-This Reposo conatin thrusday lab work
+This Repo Contain Thuresday Lab Work.
